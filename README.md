@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SathishKumarKrishnamurthy
+- 👀 I’m interested in learning Data Analytics Skill
+- 🌱 I’m currently learning Data Analytics Related skills like Power BI, Tableau, MY SQL and Python Programming Language  
+- 💞️ I’m looking to collaborate on data analytics projects
+- 📫 How to reach me through email (sathishkumar.krishh@gmail.com or mobile no (+91 - 6381151282)
